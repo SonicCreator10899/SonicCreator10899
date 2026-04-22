@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm SonicCreator 👋
 
-<!--
-**SonicCreator10899/SonicCreator10899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning programming and building Gorilla Tag mods.
 
-Here are some ideas to get you started:
+# About me
+- 💻 Learning to create Gorilla Tag mods
+- 🌐 I have a personal website
+- 📚 Improving my coding skills step by step
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Currently learning
+- HTML
+- C#
+- JavaScript
+
+# Projects
+- My website (link here)
+
+# Contact
+- Website: your link
+- Discord: your name
