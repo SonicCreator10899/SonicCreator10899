@@ -16,5 +16,5 @@ I'm learning programming and building Gorilla Tag mods.
 - My website (link here)
 
 # Contact
-- Website: your link
-- Discord: your name
+- Website: https://soniccreator10899.github.io/soniccreator.github.io/
+- Discord Server: https://discord.gg/z3hT3ttMq9
