@@ -13,7 +13,7 @@ I'm learning programming and building Gorilla Tag mods.
 - JavaScript
 
 # Projects
-- My website (link here)
+- https://github.com/SonicCreator10899/My-1st-Calculator 
 
 # Contact
 - Website: https://soniccreator10899.github.io/soniccreator.github.io/
